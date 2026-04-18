@@ -1,4 +1,4 @@
-# Hello, I am Nagi
+# 👋🏻 Hello, I am Nagi
 
 # About Me: 
 
@@ -13,6 +13,4 @@
 
 # My Projects:
 
-# simulator twitch 
-# Zapret nagi
-# horror twitch
+* **[simulator-twitch](https://github.com/leonse635/simulator-twitch)** * **[Zapret-Nagi](https://github.com/leonse635/Zapret-Nagi)** * **[horror-twitch](https://github.com/leonse635/horror-twitch)**
