@@ -13,4 +13,4 @@
 
 # My Projects:
 
-* **[simulator-twitch](https://github.com/leonse635/simulator-twitch)** * **[Zapret-Nagi](https://github.com/leonse635/Zapret-Nagi)** * **[horror-twitch](https://github.com/leonse635/horror-twitch)**
+* **[simulator-twitch](https://github.com/leonse635/simulator-twitch)** **[Zapret-Nagi](https://github.com/leonse635/Zapret-Nagi)** **[horror-twitch](https://github.com/leonse635/horror-twitch)**
